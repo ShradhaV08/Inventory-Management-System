@@ -30,4 +30,17 @@ The system includes secure authentication and detailed analytics for both indivi
 ---
 
 ## 📂 Project Structure
-
+│
+├── .env
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+├── vite.config.ts
+├── README.md
